@@ -1,0 +1,19 @@
+# Python
+backend/__pycache__/
+*.pyc
+*.pyo
+*.pyd
+env/
+venv/
+*.sqlite3
+
+# Flutter
+**/build/
+**/.dart_tool/
+**/.packages
+**/.flutter-plugins
+**/.idea/
+**/pubspec.lock
+
+# General
+.DS_Store
