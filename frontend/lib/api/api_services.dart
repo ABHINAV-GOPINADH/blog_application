@@ -3,7 +3,7 @@ import 'dart:convert';
 import 'package:flutter_secure_storage/flutter_secure_storage.dart';
 
 class ApiService {
-  static const baseUrl = 'http://192.168.1.33:8000/api';
+  static const baseUrl = 'http://192.168.1.38:8000/api';
   static final storage = FlutterSecureStorage();
 
   static Future<String?> getToken() async => await storage.read(key: 'token');

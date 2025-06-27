@@ -57,13 +57,23 @@ flutter run
 ```
 
 
-### Screenshots
-📷 Login & Signup
+## 📱 Screenshots
 
-📷 Post List
+### 🔐 Login Screen
+![Login Screen](screenshots/login.png)
 
-📷 Post Detail
-(Include screenshots here if needed)
+### 📝 Sign Up Screen
+![Sign Up Screen](screenshots/signup.png)
+
+### ➕ Home Screen
+![Create Post Screen](screenshots/home.png)
+
+### ➕ Create Post Screen
+![Create Post Screen](screenshots/create.png)
+
+### ➕ Home Screen
+![Create Post Screen](screenshots/detail.png)
+
 
 ### Contributing
 Feel free to fork this repo, open issues, or suggest features via pull requests.
